@@ -12,8 +12,10 @@ Se divide en dos componentes principales
 
 # Herramientas 
 
-Las herramienta utilizadas para el scraping de una página web fueron:
+Las herramientas utilizadas para el scraping de una página web fueron:
+
 -Google Colab 
+
 -Lenguaje de Programación: Python
 
 # Licencia 
